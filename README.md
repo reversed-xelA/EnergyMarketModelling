@@ -9,7 +9,7 @@
 ***Python Version:*** 3.13   
 ***Packages***  
 Data cleaning and analysis: numpy, pandas, matplotlib, seaborn   
-Model production: pulp
+Model production: pulp  
 ***NEM data:*** https://nemweb.com.au/Data_Archive/Wholesale_Electricity/MMSDM/2024/MMSDM_2024_04/MMSDM_Historical_Data_SQLLoader/DATA/
 * PUBLIC_DVD_DISPATCH_UNIT_SCADA_202403010000.CSV
 * PUBLIC_DVD_DISPATCHREGIONSUM_202403010000
